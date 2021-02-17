@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prince_Singh.
+- 👋 Hi, I’m @Prince.
 - 👀 I’m interested in machine learning and data science.
 - 🌱 I’m currently learning machine learning algoriths.
 - 💞️ I’m looking to collaborate on solving real world problems on data ananlysis
